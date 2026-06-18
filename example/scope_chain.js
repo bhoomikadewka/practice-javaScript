@@ -1,12 +1,9 @@
-let a= 10;
+let a=3;
 function outer(){
-    var b=20;
+    var b =6;
     function inner(){
-        var c="30";
         console.log(a);
         console.log(b);
-        console.log(c);
     }
     inner();
-}
-outer();
+}outer();
