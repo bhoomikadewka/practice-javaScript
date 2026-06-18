@@ -1,0 +1,4 @@
+let a="hello";
+a[0]="l";
+console.log(a[0]);
+console.log(a);
