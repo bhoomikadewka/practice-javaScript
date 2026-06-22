@@ -1,4 +1,4 @@
-let a=3;
+let a=3;// global scope
 function outer(){
     var b =6;
     function inner(){

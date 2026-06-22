@@ -35,3 +35,4 @@
 }
 modeof10(12);
 modeof10(15,16); //16 ignored
+

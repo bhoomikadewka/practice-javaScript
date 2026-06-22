@@ -1,4 +1,4 @@
-function calculator(a,b,operator){
+function calculator(a,b,operator){// parameters
    if("+"===operator){
     console.log("addition:",a+b);
    }
@@ -22,7 +22,7 @@ function calculator(a,b,operator){
    }
 
 }
-calculator(9,5,"+");
+calculator(9,5,"+");//arguments
 calculator(9,5,"**");
 calculator(9,5,"-");
 calculator(9,5,"%");
